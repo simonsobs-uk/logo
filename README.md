@@ -20,23 +20,13 @@ You can also see the source from <https://github.com/simonsobs-uk/logo/>
 
 ![Full Long Banner 2019](SO/SO_banner_full_long_2019.png)
 
-![Final Logo](SO/SO_Logo_FINAL.svg)
-
 ![Final Logo Minified](SO/SO_Logo_FINAL.min.svg)
-
-![Final Large Logo](SO/SO_Logo_final_large.svg)
 
 ![Final Large Logo Minified](SO/SO_Logo_final_large.min.svg)
 
-![Final Large Reversed Logo](SO/SO_Logo_final_large_reversed.svg)
-
 ![Final Large Reversed Logo Minified](SO/SO_Logo_final_large_reversed.min.svg)
 
-![Final Logo No Text](SO/SO_Logo_final_no_text.svg)
-
 ![Final Logo No Text Minified](SO/SO_Logo_final_no_text.min.svg)
-
-![Final Reversed Logo](SO/SO_Logo_final_reversed.svg)
 
 ![Final Reversed Logo Minified](SO/SO_Logo_final_reversed.min.svg)
 
